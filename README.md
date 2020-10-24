@@ -28,3 +28,7 @@ A public list of open-source tutorials written by me about Java, DevOps (with Ja
 | PT-BR | Source code analysis | Existe avaliação e garantia de qualidade no seu código durante o desenvolvimento e depois do deploy? | https://bit.ly/3mob8Fl | - |
 | EN | Source code analysis | Is there evaluation and quality assurance in your code during development and after the deploy? | https://bit.ly/3dR7zVm | - |
 | PT-BR | Continuous Integration | Utilizando Travis CI como servidor de integração contínua em projetos open-source: um exemplo com a linguagem Java | https://bit.ly/35wdgUJ | - |
+
+## License
+
+[MIT](/license) &copy; Mariana Azevedo
