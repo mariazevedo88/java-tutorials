@@ -20,6 +20,7 @@ A public list of open-source tutorials written by me about Java, DevOps (with Ja
 | PT-BR | Spring Boot/Spring Framework | Construindo uma API RESTful com Java e Spring Framework — Parte 3 | [Article 📰](https://bit.ly/3mwuvMT) | [Code 👩‍💻](https://github.com/mariazevedo88/financial-java-api) |
 | PT-BR | Spring Boot/Spring Framework | Construindo uma API RESTful com Java e Spring Framework — Parte 4 | [Article 📰](https://bit.ly/3on56Xx) | [Code 👩‍💻](https://github.com/mariazevedo88/financial-java-api) |
 | PT-BR | Spring Boot | 15 boas práticas para desenvolvimento de aplicações com Spring Boot | [Article 📰](https://bit.ly/3juBhk2) | - |
+| EN | Spring Boot/Spring Framework | Building a RESTful API with Java and Spring Framework — Part 1 | [Article 📰](https://bit.ly/3e1BVVm) | [Code 👩‍💻](https://github.com/mariazevedo88/financial-java-api) |
 
 ## DevOps Tutorials 
 
